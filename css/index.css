@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.token.selector{
+    color: inherit;   
+}
+.token.property{
+    color: inherit;
+}
+.token.function{
+    color: inherit;
+}
+.token.comment{
+    color: inherit;
+}
+p{
+    color: rgba(red, green, blue, alpha)
+}
+.markdown-body{
+    color:#000;
+    background:#fff;
+    border:1px solid;
+    max-height:100%;
+    padding: 32px;
+    overflow: auto;
+}
